@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Net;
 using System.Xml.Linq;
 
-namespace Project_Seven // addtime пиздец
+namespace Project_Seven
 {
     internal class Program
     {
@@ -170,12 +170,6 @@ namespace Project_Seven // addtime пиздец
                 }
                 else
                     Console.WriteLine("Что-то не так");
-
-                
-                
-
-
-            }
         }
     }
     
